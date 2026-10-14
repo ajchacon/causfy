@@ -2,34 +2,34 @@
 
 # Causfy
 
-**Recaudar fondos y recoger firmas, sin intermediarios**
+**Raise funds and collect signatures, with no middlemen**
 
 [![Web](https://img.shields.io/badge/causfy.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://causfy.com)
-![Rol](https://img.shields.io/badge/Rol-CTO-58A6FF?style=for-the-badge)
-![Estado](https://img.shields.io/badge/Estado-En_producción-2EA043?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-CTO-58A6FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_production-2EA043?style=for-the-badge)
 
 </div>
 
-> Repositorio de presentación. El código fuente es privado y pertenece a [CAUSFY GLOBAL TECHNOLOGIES](https://github.com/CAUSFY-GLOBAL-TECHNOLOGIES).
+> Showcase repository. The source code is private and owned by [CAUSFY GLOBAL TECHNOLOGIES](https://github.com/CAUSFY-GLOBAL-TECHNOLOGIES).
 
-## ¿Qué es?
+## What is it?
 
-Causfy es una plataforma de activismo digital donde personas y organizaciones crean causas para **recoger firmas** o **recaudar fondos**. Causfy no toca el dinero en ningún momento: va directo a la cuenta o a la billetera del promotor.
+Causfy is a digital activism platform where individuals and organizations create causes to **collect signatures** or **raise funds**. Causfy never holds the money: it goes straight to the organizer's bank account or wallet.
 
-## Funcionalidades principales
+## Key features
 
-- ✍️ **Firmas con validez verificable**: cada firma genera un certificado sellado y se ancla en blockchain. Cualquiera puede comprobar la prueba sin depender de la plataforma.
-- 💸 **Recaudación sin comisión**: se puede aportar con tarjeta, transferencia o stablecoins, y el dinero va directo al promotor.
-- 📡 **Transmisión en vivo** desde la causa, con chat y sin instalar nada.
-- 💬 **Firmar y aportar desde el chat** donde ya está la comunidad.
-- 🏷️ **Marca blanca**: plataformas de causas con dominio e identidad propios y módulos que se activan uno a uno.
-- 🔒 **Privacidad por diseño**: sin publicidad, sin rastreadores publicitarios y sin venta de datos.
+- ✍️ **Verifiable signatures**: every signature produces a sealed certificate and is anchored on a blockchain. Anyone can verify the proof without relying on the platform.
+- 💸 **Zero-commission fundraising**: supporters pay by card, bank transfer or stablecoins, and the money goes directly to the organizer.
+- 📡 **Live streaming** from the cause page, with chat and nothing to install.
+- 💬 **Sign and donate from chat apps**, right where the community already talks.
+- 🏷️ **White label**: cause platforms with their own domain and branding, with modules enabled one by one.
+- 🔒 **Privacy by design**: no ads, no ad trackers and no selling of user data.
 
-## Mi rol
+## My role
 
-Como **CTO** lidero la arquitectura y el desarrollo de toda la plataforma: aplicación web, APIs, pagos fiat y cripto, la prueba de firmas en blockchain, la infraestructura cloud, el CI/CD y el SEO técnico.
+As **CTO**, I lead the architecture and development of the whole platform: web app, APIs, fiat and crypto payments, on-chain signature proofs, cloud infrastructure, CI/CD and technical SEO.
 
-## Tecnologías
+## Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
